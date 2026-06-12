@@ -1,0 +1,6 @@
+image,framework,runtime_sec,confidence,text
+blurry.jpg,KerasOCR,6.799,N/A,ocr benchmark tes t this printed ls clean text image a computer internship assignment vision
+clean.jpg,KerasOCR,4.65,N/A,ocr benchmark test this printed is clean text image a vision assignment computer internship
+handwritten.jpeg,KerasOCR,4.16,N/A,wovlo hcllo houol lext ten ws this ls melt asslig a cr mav h ch ben
+non_english.jpg,KerasOCR,4.223,N/A,tira grtyt fi urteut ye ocr fdutt hucy
+rotated.jpg,KerasOCR,5.754,N/A,ocr benchmark this test is a clean computer printed text vision image internship assignments
