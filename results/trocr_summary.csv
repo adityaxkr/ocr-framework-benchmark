@@ -1,0 +1,5 @@
+model,dataset,CER,WER,Avg_Inference_Time
+microsoft/trocr-base-printed,datasets/printed,0.6443514644351465,0.92,0.9967929553985596
+microsoft/trocr-base-printed,datasets/handwritten,0.7841111506946918,0.9895470383275261,2.5368232250213625
+microsoft/trocr-base-handwritten,datasets/printed,0.608786610878661,1.14,0.8390192317962647
+microsoft/trocr-base-handwritten,datasets/handwritten,0.07623797648735305,0.18989547038327526,2.074655466079712
